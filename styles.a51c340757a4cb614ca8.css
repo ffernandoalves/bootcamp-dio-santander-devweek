@@ -1,0 +1,25 @@
+:root {
+  --background-color: #EAEAEA;
+  --primary-color: #EA1D25;
+  --secondary-color: #FFFFFF;
+  --text-color: #5C6369;
+  --text-color-light: rgba(92, 99, 105, 0.45);
+  --positive-variation-color: #87D883;
+  --negative-variation-color: #F55A5F;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-color: var(--background-color);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlcy5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSwyQkFBMkI7RUFDM0Isd0JBQXdCO0VBQ3hCLDBCQUEwQjtFQUMxQixxQkFBcUI7RUFDckIsMkNBQTJDO0VBQzNDLG1DQUFtQztFQUNuQyxtQ0FBbUM7QUFDckM7O0FBRUE7RUFDRSxzQkFBc0I7QUFDeEI7O0FBRUE7RUFDRSxZQUFZO0VBQ1osV0FBVztFQUNYLFNBQVM7RUFDVCx5Q0FBeUM7RUFDekMsbUNBQW1DO0FBQ3JDIiwiZmlsZSI6InN0eWxlcy5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyI6cm9vdCB7XG4gIC0tYmFja2dyb3VuZC1jb2xvcjogI0VBRUFFQTtcbiAgLS1wcmltYXJ5LWNvbG9yOiAjRUExRDI1O1xuICAtLXNlY29uZGFyeS1jb2xvcjogI0ZGRkZGRjtcbiAgLS10ZXh0LWNvbG9yOiAjNUM2MzY5O1xuICAtLXRleHQtY29sb3ItbGlnaHQ6IHJnYmEoOTIsIDk5LCAxMDUsIDAuNDUpO1xuICAtLXBvc2l0aXZlLXZhcmlhdGlvbi1jb2xvcjogIzg3RDg4MztcbiAgLS1uZWdhdGl2ZS12YXJpYXRpb24tY29sb3I6ICNGNTVBNUY7XG59XG5cbioge1xuICBib3gtc2l6aW5nOiBib3JkZXItYm94O1xufVxuXG5odG1sLCBib2R5IHtcbiAgaGVpZ2h0OiAxMDAlO1xuICB3aWR0aDogMTAwJTtcbiAgbWFyZ2luOiAwO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1iYWNrZ3JvdW5kLWNvbG9yKTtcbiAgZm9udC1mYW1pbHk6ICdTZWdvZSBVSScsIHNhbnMtc2VyaWY7XG59XG4iXX0= */
+
+/*# sourceMappingURL=styles.a51c340757a4cb614ca8.css.map*/
