@@ -261,7 +261,7 @@ __webpack_require__.r(__webpack_exports__);
 let DashboardService = class DashboardService {
   constructor(http) {
     this.http = http;
-    this.baseUrl = 'http://bootcamp-dio-santander-devweek.herokuapp.com/bootcamp';
+    this.baseUrl = 'https://bootcamp-dio-santander-devweek.herokuapp.com/bootcamp';
   }
 
   getStocks() {
@@ -294,7 +294,7 @@ DashboardService = Object(tslib__WEBPACK_IMPORTED_MODULE_1__["__decorate"])([Obj
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = (".container {\n  width: 100%;\n  padding: 1.5rem;\n  display: flex;\n  flex-direction: row;\n  flex-wrap: wrap;\n  justify-items: center;\n}\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImRhc2hib2FyZC1wYWdlLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxXQUFXO0VBQ1gsZUFBZTtFQUNmLGFBQWE7RUFDYixtQkFBbUI7RUFDbkIsZUFBZTtFQUNmLHFCQUFxQjtBQUN2QiIsImZpbGUiOiJkYXNoYm9hcmQtcGFnZS5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmNvbnRhaW5lciB7XG4gIHdpZHRoOiAxMDAlO1xuICBwYWRkaW5nOiAxLjVyZW07XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXgtZGlyZWN0aW9uOiByb3c7XG4gIGZsZXgtd3JhcDogd3JhcDtcbiAganVzdGlmeS1pdGVtczogY2VudGVyO1xufVxuIl19 */");
+/* harmony default export */ __webpack_exports__["default"] = (".container {\n  width: 100%;\n  padding: 1.5rem;\n  display: flex;\n  flex-direction: row;\n  flex-wrap: wrap;\n  justify-content: center;\n}\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImRhc2hib2FyZC1wYWdlLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxXQUFXO0VBQ1gsZUFBZTtFQUNmLGFBQWE7RUFDYixtQkFBbUI7RUFDbkIsZUFBZTtFQUNmLHVCQUF1QjtBQUN6QiIsImZpbGUiOiJkYXNoYm9hcmQtcGFnZS5jb21wb25lbnQuY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmNvbnRhaW5lciB7XG4gIHdpZHRoOiAxMDAlO1xuICBwYWRkaW5nOiAxLjVyZW07XG4gIGRpc3BsYXk6IGZsZXg7XG4gIGZsZXgtZGlyZWN0aW9uOiByb3c7XG4gIGZsZXgtd3JhcDogd3JhcDtcbiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7XG59XG4iXX0= */");
 
 /***/ }),
 
@@ -586,4 +586,4 @@ webpackEmptyAsyncContext.id = "zn8P";
 /***/ })
 
 },[[0,"runtime","vendor"]]]);
-//# sourceMappingURL=main.57cf91ebc0ee9255ca3c.js.map
+//# sourceMappingURL=main.6fa2fe657af14d0da4f9.js.map
